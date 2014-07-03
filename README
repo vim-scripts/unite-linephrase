@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4975
+
+unite-linephrase is a Unite.vim plugin for listing, searching, manipulating set phrases. It is developed for one liner set phrases (linephrases), something like:
+
+PyPI classifier entries
+Markdown styled hyperlinks, images, whatever
+Email addresses
+This plugin use files for generating candidates. Basically each lines in the file are translated to source candidates. Thus even Vim beginners can easily make them own sources for set phrases, it is quite good for users who are too bothered to create original sources as well :-p
+
+GitHub: https://github.com/lambdalisue/unite-linephrase
